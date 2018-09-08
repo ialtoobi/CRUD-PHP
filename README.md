@@ -15,4 +15,5 @@ process.php – used for creating, updating, deleting a record. It uses an HTML 
 This project has search and pagination functionality added using   
 
 Developed By: Mohammed Altoobi 
+
 Instagram: @qe9
